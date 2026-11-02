@@ -26,7 +26,7 @@ export default function Navbar() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
-        <a href="#" className="flex items-center gap-2 group">
+        <a href="/" className="flex items-center gap-2 group">
           <div className="p-2 bg-gradient-to-tr from-cyan-500 to-indigo-500 rounded-xl text-white shadow-md group-hover:scale-110 transition-transform duration-300">
             <Code2 size={24} />
           </div>
