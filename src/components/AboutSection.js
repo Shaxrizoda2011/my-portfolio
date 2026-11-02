@@ -1,5 +1,5 @@
 import React from 'react';
-import { Award, Code2, Heart, Sparkles, Target, Zap } from 'lucide-react';
+import { Code2, Sparkles, Target } from 'lucide-react';
 
 export default function AboutSection() {
   const highlights = [

@@ -14,7 +14,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto flex flex-col gap-12">
         <div className="flex flex-col md:flex-row items-center justify-between gap-8 pb-12 border-b border-slate-800/60">
           <div className="flex flex-col items-center md:items-start text-center md:text-left gap-3">
-            <a href="#" className="flex items-center gap-2 group">
+            <a href="/" className="flex items-center gap-2 group">
               <div className="p-2 bg-gradient-to-tr from-cyan-500 to-indigo-500 rounded-xl text-white shadow-md group-hover:scale-110 transition-transform duration-300">
                 <Code2 size={24} />
               </div>
